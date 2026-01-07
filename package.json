@@ -1,0 +1,23 @@
+{
+  "name": "tarea2hitos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jferpon/Tarea2Hitos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jferpon/Tarea2Hitos/issues"
+  },
+  "homepage": "https://github.com/Jferpon/Tarea2Hitos#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
