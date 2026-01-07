@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // Servir un archivo HTML simple
 app.get('/', (req, res) => {
-  res.send('<h1>Hola, esto es para el hito 3</h1>');
+  res.send('<h1>Hola, esto es para el hito 4</h1>');
 });
 
 // Exporta la app para poder probarla en los tests
@@ -17,4 +17,3 @@ if (require.main === module) {
     console.log(`Aplicación escuchando en puerto ${port}`);
   });
 }
-
