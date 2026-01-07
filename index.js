@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // Servir un archivo HTML simple
 app.get('/', (req, res) => {
-  res.send('<h1>Hola, este es el primer commit para el reto!</h1>');
+  res.send('<h1>APP ROTA</h1>'
 });
 
 // Exporta la app para poder probarla en los tests
